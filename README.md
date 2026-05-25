@@ -48,6 +48,6 @@ I do a lot of things (design, automation, AI prompts, productivity hacks, photog
 
 ## 📬 Contact
 - 📍 Matiari, Sindh, Pakistan  
-- [📧 Email]   (https://mailto:teq.saboor.4660@gmail.com)
-- [🧾 LinkedIn] (https://linkedin.com/abdul-saboor--memon)
-- [📷 Instagram] (instagram.com/a.saboor_memon) 
+- [📧 Email](https://mailto:teq.saboor.4660@gmail.com)
+- [🧾 LinkedIn](https://linkedin.com/abdul-saboor--memon)
+- [📷 Instagram](instagram.com/a.saboor_memon) 
