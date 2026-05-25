@@ -1,4 +1,4 @@
-# 🌟 Abdul Saboor Memon — Creative Technologist & Software Engineer
+# Hi there! 👋 Abdul Saboor Memon 🪷  — A Creative Technologist & Software Engineer in the process
 
 ## 👨‍💻 About Me
 Hey, I’m Abdul — a **Software Engineering Student at MUET, Jamshoro** and **Creative Technologist**.  
