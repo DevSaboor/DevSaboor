@@ -16,7 +16,7 @@ I do a lot of things (design, automation, AI prompts, productivity hacks, photog
   Current grind: mastering **Data Structures & Algorithms in Java**.  
 
 - **Latest Projects** 🚀  
-  - Cafe Website  
+  - C++ Foundations (C++ leaning resource)  
   - Personal portfolio 
   - Library Management System 
 
@@ -28,14 +28,6 @@ I do a lot of things (design, automation, AI prompts, productivity hacks, photog
 - 📑 Documentation & Productivity  
 - 📸 Photography & Editing  
 - 🗣️ Leadership & Communication  
-
----
-
-## 📈 Quick Stats
-- 2+ years of professional experience  
-- 30+ completed projects  
-- 10+ satisfied clients  
-- 10+ earned certificates  
 
 ---
 
