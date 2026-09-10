@@ -1,47 +1,94 @@
-# Hi there! 👋 I'm Abdul Saboor Memon 🪷  — A Creative Technologist & Software Engineer in the process
+<h1 data-importer="text" align="center">₊˚⊹ ۶ৎ ݁ Yoroshiku! I'm Abdul Saboor ⟡ ⊹˚₊</h1>
 
-## 👨‍💻 About Me
-Hey, I’m Abdul — a **Software Engineering Student at MUET, Jamshoro** and **Creative Technologist**.  
-I do a lot of things (design, automation, AI prompts, productivity hacks, photography 🎨📸), but here on GitHub I keep it focused: **Web development** and **programming**.
+###
 
----
+<p data-importer="text" align="center"><i>Just a curious lil dev! ⋆˙⟡</i></p>
 
-## 💻 Core Focus (GitHub Stuff)
-- **Front-End Development** ⚡  
-  Building responsive, dynamic web interfaces with **HTML, CSS, JavaScript**.  
-  Strong focus on **UI/UX** for clean, accessible, and logical navigation.  
+###
 
-- **Programming** 🖥️  
-  Writing efficient code in **C++**, **Java**, and **JavaScript**.  
-  Current grind: mastering **Data Structures & Algorithms in Java**.  
+<br clear="both">
 
-- **Latest Projects** 🚀  
-  - C++ Foundations (C++ leaning resource)  
-  - Personal portfolio 
-  - Library Management System 
+<img
+  data-importer="image"
+  align="right"
+  height="180"
+  width="180"
+  src="https://giffiles.alphacoders.com/142/142796.gif"
+/>
 
----
+###
 
-## 🔧 Other Hats
-- 🎨 Graphic & UI/UX Design  
-- 🤖 AI Prompt Engineering & Automation  
-- 📑 Documentation & Productivity  
-- 📸 Photography & Editing  
-- 🗣️ Leadership & Communication  
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="html5 logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="css logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="javascript logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" alt="chrome logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="48" alt="opera logo" />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" alt="netlify logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="java logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="cplusplus logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" alt="qt logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" alt="arduino logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="mysql logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="vscode logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" alt="intellij logo" />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=replit" width="48" alt="replit logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="git logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="github logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="linux logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" alt="figma logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" alt="canva logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" alt="google logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" alt="notion logo" />
+</div>
 
----
+###
 
-## 💡 Values
-- Genuine connections 🤝  
-- Authentic teamwork 💬  
-- Innovation & creativity ✨  
+<br clear="both">
 
----
+<img
+  src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"
+  alt="Space shooter contribution graph"
+  width="100%"
+/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.saboor_memon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-saboor--memon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/a_saboor_memon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:teq.saboor.4660@gmail.com) 
+###
 
----
+<br clear="both">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="55" alt="instagram logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="55" alt="discord logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="55" alt="gmail logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="55" alt="linkedin logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="55" alt="twitter logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="55" alt="facebook logo" />
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="60" height="55" alt="website logo" />
+</div>
+
+###
+
+<br clear="both">
+
+<p align="center">₊˚⊹ 𓂃 ࣪˖ ִֶָ☾. <em>Thanks for stopping by!</em> ⟡ ݁₊˚⊹</p>
+<p align="center">─────── ⋆⋅☆⋅⋆ ───────</p>
