@@ -2,7 +2,16 @@
 
 ###
 
-<p data-importer="text" align="center"><i>Just a curious lil dev! ⋆˙⟡</i></p>
+<p align="center">
+  <i>Just a curious lil dev, building things, breaking things, and learning why they broke! ⋆˙⟡</i>
+</p>
+
+<p align="center">
+  Software Engineering student • Front-end dev • UI/UX enjoyer • Tech explorer
+  <br>
+  Turning random ideas into questionable amounts of code ✦
+</p>
+
 
 ###
 
