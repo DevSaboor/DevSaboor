@@ -17,12 +17,11 @@
 
 <br clear="both">
 
-<img
+<img 
   data-importer="image"
   align="right"
   height="180"
-  width="180"
-  src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAd/solo-leveling-solo-leveling-season-2.gif"
+  src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif"
 />
 
 ###
@@ -86,13 +85,33 @@
 <br clear="both">
 
 <div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="55" alt="instagram logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="55" alt="discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="55" alt="gmail logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="55" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="55" alt="twitter logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="55" alt="facebook logo" />
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="60" height="55" alt="website logo" />
+  <a href="https://www.instagram.com/a.saboor_memon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="55" alt="Instagram" />
+  </a>
+
+  <a href="https://discord.com/users/1261300250648252497" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="55" alt="Discord" />
+  </a>
+
+  <a href="mailto:teq.saboor.4660@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="55" alt="Gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdul-saboor--memon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="55" alt="LinkedIn" />
+  </a>
+
+  <a href="https://x.com/A_Saboor_memon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="55" alt="Twitter / X" />
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=61561542324628" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="55" alt="Facebook" />
+  </a>
+
+  <a href="https://abdul-saboor.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="60" height="55" alt="Website" />
+  </a>
 </div>
 
 ###
